@@ -1,0 +1,33 @@
+body {
+	background-color: gray;
+}
+h1 {
+	color: cyan;
+}
+h1:hover{
+	cursor: default;
+}
+li {
+	list-style-type: none;
+}
+header {
+	background-color: maroon;
+}
+footer {  
+	background-color: maroon;
+}
+nav {
+	background-color: cyan;
+}
+a {
+	color: black;
+	padding: 3px;
+}
+a:hover{
+	background-color: #59f;
+	text-decoration: none;
+
+}
+img {
+	height: 500px;
+}
